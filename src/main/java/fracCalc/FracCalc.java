@@ -64,7 +64,7 @@ public class FracCalc {
 	           
 	       String secondFull= "whole:" + secondWhole +  " numerator:" + secondNum + " denominator:" + secondDem;
 	       // whole:20 numerator:0 denominator:1
-	       return secondFull;
+	       return;
 	       
 	       
 	    }
